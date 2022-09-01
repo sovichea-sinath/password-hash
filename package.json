@@ -1,0 +1,10 @@
+{
+  "name": "password-hash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/sjcl": "^1.0.30",
+    "sjcl": "^1.0.8"
+  }
+}
